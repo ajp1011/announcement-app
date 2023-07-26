@@ -29,9 +29,9 @@ export default {
         },
         {
           id: 3,
-          author: '$3264$@_1~!',
+          author: 'Markdown Test 1',
           date: '',
-          body: 'lorem impsum',
+          body: '## THIS IS BOLD ##',
         },
         {
           id: 4,
@@ -41,7 +41,7 @@ export default {
         },
         {
           id: 5,
-          author: 'Sasquatch',
+          author: 'Markdown Test 2',
           date: '234-234-652',
           body: '[204th9ruaegnpsdfojgn204nrl;asdmkf',
         }
