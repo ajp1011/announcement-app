@@ -1,7 +1,14 @@
-# Vue 3 + Vite
+# Announcement App #
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Notes:
 
-## Recommended IDE Setup
+- To modify the Mock Data, edit the announcements array found in App.vue
+- For styling I just left it with the default Vue 3 + Vite installs default styling
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Project Dev Notes
+- 11:31 - Installed the necessary packages and components to begin and set up the local repository
+- 12:30 - Began development work
+- 13:01 - Completed base functionality
+- 14:04 - Added in markdown parsing functionality
+- 14:24 - Minor improvements and testing
+- 14:27 - Updated README and final commit

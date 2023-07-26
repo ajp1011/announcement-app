@@ -11,6 +11,8 @@ export default {
   components: {
     AnnouncementList,
   },
+  // This is where we would have a listener for the API to push data
+  // Or the API could push data into a SQL database and pull it from there (preferred method in my opinion)
   data() {
     return {
       // Mock Data
@@ -43,7 +45,7 @@ export default {
           id: 5,
           author: 'Markdown Test 2',
           date: '234-234-652',
-          body: 'Markdown Highlights ```json {"firstName": "John", "lastName": "Smith","age": 25 } ```',
+          body: 'Markdown Test 2\n| col1 | col2 | col 3|\n|------|------|------|\n| inf1 | inf2 | inf3 |\n| inf1 | inf2 | inf3 | ',
         }
       ],
     };
