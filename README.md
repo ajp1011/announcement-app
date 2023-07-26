@@ -3,6 +3,7 @@
 Notes:
 
 - To modify the Mock Data, edit the announcements array found in App.vue
+- To modify the pagination edit line 22 in the AnnouncementList component
 - For styling I just left it with the default Vue 3 + Vite installs default styling
 
 Project Dev Notes
