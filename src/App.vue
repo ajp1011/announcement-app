@@ -24,26 +24,26 @@ export default {
         {
           id: 2,
           author: 'Jdoe 123',
-          date: '2023-08-23',
+          date: '2023-07-26',
           body: '',
         },
         {
           id: 3,
-          author: '$3264$@_1~!',
+          author: 'Markdown Test 1',
           date: '',
-          body: 'lorem impsum',
+          body: '## THIS IS BOLD ##',
         },
         {
           id: 4,
-          author: 'number4',
+          author: 'Hyperlink Support',
           date: '1900-01-01 23:33:12',
-          body: 'set dolar',
+          body: '[XKCD](https://xkcd.com)',
         },
         {
           id: 5,
-          author: 'Sasquatch',
+          author: 'Markdown Test 2',
           date: '234-234-652',
-          body: '[204th9ruaegnpsdfojgn204nrl;asdmkf',
+          body: 'Markdown Highlights ```json {"firstName": "John", "lastName": "Smith","age": 25 } ```',
         }
       ],
     };
